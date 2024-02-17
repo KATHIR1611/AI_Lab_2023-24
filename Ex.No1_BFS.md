@@ -1,4 +1,4 @@
-![image](https://github.com/KATHIR1611/AI_Lab_2023-24/assets/128135186/d05d9473-14f0-41c8-bbee-4392e3b05357)# Ex.No: 1  Implementation of Breadth First Search 
+# Ex.No: 1  Implementation of Breadth First Search 
 ### DATE:                                                                            
 ### REGISTER NUMBER : 
 ### AIM: 
