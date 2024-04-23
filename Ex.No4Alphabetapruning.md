@@ -7,8 +7,8 @@ Write a Alpha beta pruning algorithm to find the optimal value of MAX Player fro
 1. Start the program
 2. Initially  assign MAX and MIN value as 1000 and -1000.
 3.  If maximum depth is reached then return the score value of leaf node. [depth taken as 3]
-4.  In Max player turn, assign the alpha value by finding the maximum value by calling the minmax function recursively.
-5.  In Min player turn, assign beta value by finding the minimum value by calling the minmax function recursively.
+4.  In Max player turn,assign the alpha value by finding the max value by calling minmax function recursively.
+5.  In Min player turn,assign beta value by finding the min value by calling minmax function recursively.
 6.  Print the best value of Max player.
 7.  Stop the program. 
 
