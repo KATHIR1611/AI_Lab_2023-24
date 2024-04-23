@@ -6,14 +6,12 @@ To write a python program to implement Breadth first Search.
 ### ALGORITHM:
 1. Start the program
 2. Create the graph by using adjacency list representation
-3. Define a function bfs and take the set “visited” is empty and “queue” is empty
-4. Search start with initial node and add the node to visited and queue.
-5. For each neighbor node, check node is not in visited then add node to visited and queue list.
-6. Call the bfs function by passing arguments visited, graph and starting node.
-7. Stop the program.
+3. Search start with initial node and add the node to visited and queue.
+4. For each neighbor node, check node is not in visited then add node to visited and queue list.
+5. . Call the bfs function by passing arguments visited, graph and starting node.
+6. Stop the program.
 ### PROGRAM:
-``
-graph = {
+```graph = {
     '5': ['3', '7'],
     '3': ['2', '4'],
     '7': ['8'],
@@ -38,8 +36,7 @@ def bfs(visited, graph, node):
                 queue.append(neighbour)
 print("Following is the Breadth-First Search:")
 bfs(visited, graph, '5')
-
-``
+```
 
 ### OUTPUT:
 
