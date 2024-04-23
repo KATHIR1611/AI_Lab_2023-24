@@ -9,10 +9,7 @@ To write a logic program to design a circuit like half adder and half subtractor
 3. Design a OR gate logic if any one of input is 1 then output is 1.
 4. Design a XOR gate logic if both inputs are different then output is 1.
 5. Design a NOT gate logic if input is 0 then output is 1.
-6. Design a half adder and half subtractor using the rules.
-7. Test the logic.
-8. Stop the program.
-
+6. Stop the program.
 ### PROGRAM:
 ```
 and(0,0,0).
