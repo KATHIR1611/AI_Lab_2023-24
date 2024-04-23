@@ -3,7 +3,7 @@
 ### REGISTER NUMBER:212221220026 
 ### AIM: 
 To  write  a logic program  to solve Towers of Hanoi problem  using SWI-PROLOG. 
-### Algorithm:
+### ALGORITHM:
 1. Start the program
 2. Write a rules for finding solution of Towers of Hanoi in SWI-PROLOG.
 3.  a )	If only one disk  => Move disk from X to Y.
@@ -12,7 +12,7 @@ To  write  a logic program  to solve Towers of Hanoi problem  using SWI-PROLOG.
 6. Move  Nth disk from X to Y
 7. Move  N-1 disks from Y to X.
 8. Run the program  to find answer of  query.
-### Program:
+### PROGRAM:
 ```
 move(1,X,Y,_) :- 
  write('Move top disk from '), 
@@ -27,9 +27,9 @@ move(N,X,Y,Z) :-
  move(1,X,Y,_), 
  move(M,Z,Y,X).
 ```
-### Output:
+### OUTPUT:
 ![Screenshot 2024-03-23 153918](https://github.com/santhakumar-M/AI_Lab_2023-24/assets/121998012/4523efe3-eaf5-40e1-87d8-497a8e58d323)
 
 
-### Result:
+### RESULT:
 Thus the solution of Towers of Hanoi problem was found by logic programming.
