@@ -11,7 +11,8 @@ To write a python program to implement Breadth first Search.
 5. . Call the bfs function by passing arguments visited, graph and starting node.
 6. Stop the program.
 ### PROGRAM:
-```graph = {
+```
+graph = {
     '5': ['3', '7'],
     '3': ['2', '4'],
     '7': ['8'],
