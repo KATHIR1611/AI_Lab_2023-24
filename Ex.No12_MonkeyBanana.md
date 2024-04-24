@@ -4,11 +4,11 @@
 ### AIM: 
 To find the sequence of plan for Monkey Banana problem using PDDL Editor.
 ###  ALGORITHM:
-1.Start the program 
-2.Create a domain for Monkey Banana Problem. 
-3.Specify the actions GOTO, CLIMB, PUSH-BOX, GET-KNIFE, GRAB-BANANAS in Monkey Banana problem.
-4.Obtain the plan for given problem.
-5.Stop the program.
+1.Start the program <br>
+2.Create a domain for Monkey Banana Problem. <br>
+3.Specify the actions GOTO, CLIMB, PUSH-BOX, GET-KNIFE, GRAB-BANANAS in Monkey Banana problem.<br>
+4.Obtain the plan for given problem.<br>
+5.Stop the program.<br>
 ### PROGRAM:
 ```
 (define (domain monkey)	       
