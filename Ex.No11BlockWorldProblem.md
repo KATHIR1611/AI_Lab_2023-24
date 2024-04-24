@@ -3,7 +3,7 @@
 ### Register number:212221220026 
 ### AIM: 
 To find the sequence of plan for Block word problem using PDDL  
-###  Algorithm:
+###  ALGORITHM:
 Step 1 :  Start the program <br>
 Step 2 : Create a domain for Block world Problem <br>
 Step 3 :  Create a domain by specifying predicates clear, on table, on, arm-empty, holding. <br>
@@ -15,7 +15,7 @@ Step 8 : In stack action, Robot arm place the block on under block. Precondition
 Step 9 : Define a problem for block world problem.<br> 
 Step 10 : Obtain the plan for given problem.<br> 
      
-### Program:
+### PROGRAM:
 ```
 (define (domain blocksworld)
 (:requirements :strips :equality)
@@ -54,7 +54,7 @@ Step 10 : Obtain the plan for given problem.<br>
 
 
 
-### Input 
+### INPUT:
 ```
 (define (problem pb1)
  (:domain blocksworld)
@@ -63,11 +63,11 @@ Step 10 : Obtain the plan for given problem.<br>
  (:goal (and (on a b))))
 ```
 
-### Output/Plan:
+### OUTPUT:
 
 ![280242688-fafc1299-e36d-424e-aeda-461cc605d215](https://github.com/KATHIR1611/AI_Lab_2023-24/assets/128135186/a385309e-9271-4e25-9491-c9a0e0d94ea7)
 
 
 
-### Result:
+### RESULT:
 Thus the plan was found for the initial and goal state of block world problem.
