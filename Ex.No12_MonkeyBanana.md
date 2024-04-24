@@ -80,7 +80,7 @@ To find the sequence of plan for Monkey Banana problem using PDDL Editor.
 ```
 
 ### OUTPUT:
-<img src="https://github.com/Naadira/AI_Lab_2023-24/assets/128135126/2b76cef9-2929-4dc1-b9ea-c1d96715ada7" alt="" width="80%" height="70%">
+<img src="https://github.com/Naadira/AI_Lab_2023-24/assets/128135126/2b76cef9-2929-4dc1-b9ea-c1d96715ada7" alt="" width="80%" height="50%">
 
 
 
