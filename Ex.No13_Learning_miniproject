@@ -23,7 +23,7 @@ To write a program to train the classifier for Diabetes Prediction.
 
 9.Define a function named 'diabetes' that takes input parameters for various features and Use the trained machine learning model to predict the outcome based on the input features.
 
-10.Create a Gradio interface using 'gr.Interface' and Specify the function to be used to make predictions based on user inputs.
+10.Create a Gradio interface using 'gr.Interface' and Specify the function to be used to make predictions based on user inputs
 
 11.Launch the Gradio web application, enabling sharing, to allow users to input their data and get predictions regarding diabetes risk.
 
